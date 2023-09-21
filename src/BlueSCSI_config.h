@@ -64,7 +64,7 @@
 #define APPLE_DRIVEINFO_OPTICAL   {"BlueSCSI", "CD-ROM CDU-55S",  "1.9a", ""}
 #define APPLE_DRIVEINFO_FLOPPY    {"TEAC",     "FD235HS",         "1.44", ""}
 #define APPLE_DRIVEINFO_MAGOPT    {"MOST",     "RMD-5200",        "1.0",  ""}
-#define APPLE_DRIVEINFO_NETWORK   {"Dayna",    "SCSI/Link",       "2.0f", ""}
+#define APPLE_DRIVEINFO_NETWORK   {"Dayna",    "SCSI/Link/Blue",  "2.0f", ""}
 #define APPLE_DRIVEINFO_TAPE      {"BlueSCSI", "APPLE_TAPE",      "",     ""}
 
 // Default delay for SCSI phases.
